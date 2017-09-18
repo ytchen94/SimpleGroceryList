@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleGroceryList</string>
+    <string name="action_settings">Settings</string>
+    <string name="AddItemButton">ADD ITEM</string>
+    <string name="hint">Ex. 2 apples</string>
+    <string name="clearAll">Clear All</string>
+</resources>
